@@ -1,0 +1,9 @@
+﻿{
+	"s3url":"https://s3.amazonaws.com/",
+	"s3bucket": "<your bucket>",
+	"awsAccessKey":"<your access key>",
+	"awsSecretKey":"<your secret key>",
+	"files":[
+		{"file":"<local file with full path>","subDir":"<sub directory in bucket, if applicable, full path>"}
+	]
+}

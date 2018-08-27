@@ -1,0 +1,5 @@
+bin/
+obj/
+PushToS3/obj/Debug/netcoreapp2\.1/
+
+PushToS3/myFile\.txt
